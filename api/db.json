@@ -1,0 +1,14 @@
+{
+    "food":[
+        {
+            "id":1,
+            "price":15,
+            "name": "Hamburguer Italiano",
+            "tags":"ComidasRapidas",
+            "type":"lanch",
+            "imageUrls":"/assets/foods/humburguer(1).webp",
+            "cookTime":"30min",
+            "origins":["Itália"]
+              } 
+        ]
+}
